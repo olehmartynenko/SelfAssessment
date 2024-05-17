@@ -1,8 +1,8 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model 🖐️ used
-  - Modeling 🖐️ used
+  - Model: 🖐️ used
+  - Modeling: 🖐️ used
   - Subject domain: 🎓 known
   - Algorithm: 🖐️ used
   - Syntax: 🖐️ used

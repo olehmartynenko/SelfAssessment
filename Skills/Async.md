@@ -55,8 +55,8 @@
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore 🖐️ used
-  - Mutex 🖐️ used
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
@@ -77,12 +77,12 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library 👂 heard
+  - Async.js library: 👂 heard
   - RxJS library: 👂 heard
   - Promise.all: 🙋 explained
   - Promise.allSettled: 🙋 explained
   - Promise.race: 🖐️ used
-  - Promise.any 🖐️ used
+  - Promise.any: 🖐️ used
   - Web Locks API
   - IPC
   - Channel API
