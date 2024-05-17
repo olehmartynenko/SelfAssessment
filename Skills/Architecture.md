@@ -7,7 +7,7 @@
   - GRASP: 🖐️ used
   - SOLID: 🙋 explained
   - GoF patterns: 🙋 explained
-  - CQS 🙋 explained
+  - CQS: 🙋 explained
   - Leaking abstractions
   - Multiparadigm code: 🖐️ used
   - Contract programming: 🖐️ used

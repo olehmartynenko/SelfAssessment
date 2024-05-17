@@ -6,7 +6,7 @@
   - Structured programming
   - Non-structured programming
   - Functional programming: 🖐️ used
-  - Prototype-based programming 🖐️ used
+  - Prototype-based programming: 🖐️ used
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🖐️ used
   - Generic programming
