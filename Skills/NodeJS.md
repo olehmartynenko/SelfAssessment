@@ -60,7 +60,7 @@
   - Blob, File, Buffer, module `node:buffer`: 🖐️ used
   - Module `node:zlib`
 - Network
-  - Endpoint throttling 🖐️ used
+  - Endpoint throttling: 🖐️ used
   - ALPN
   - SNI callback
   - SSL certificates: 🖐️ used
