@@ -40,7 +40,7 @@
   - Web Crypto API
   - File system API (sync and async): 🖐️ used
   - Copy folder recursively: 🖐️ used
-  - Worker threads: 🎓 known
+  - Worker threads: 🖐️ used
   - Performance hooks
   - Native fetch and nodejs/undici: 🖐️ used
   - async_hooks
@@ -49,8 +49,8 @@
   - Deprecated domain API
   - Node.js single executable: 🎓 known
   - SharedArrayBuffer
-  - Module `node:worker_threads`: 🎓 known
-  - Module `node:child_process`: 🎓 known
+  - Module `node:worker_threads`: 🖐️ used
+  - Module `node:child_process`: 🖐️ used
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID: 👂 heard
@@ -60,7 +60,7 @@
   - Blob, File, Buffer, module `node:buffer`: 🖐️ used
   - Module `node:zlib`
 - Network
-  - Endpoint throttling
+  - Endpoint throttling: 🖐️ used
   - ALPN
   - SNI callback
   - SSL certificates: 🖐️ used
@@ -87,7 +87,7 @@
   - SQL injection: 🖐️ used
   - noDelay
   - keep-alive: 🖐️ used
-  - IP sticky sessions: 👂 heard
+  - IP sticky sessions: 🖐️ used
 - Technique and tools
   - Native test runner
   - Logging: 🖐️ used

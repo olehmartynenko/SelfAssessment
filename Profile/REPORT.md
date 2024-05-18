@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-527&nbsp;/&nbsp;715&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com///github/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-528&nbsp;/&nbsp;715&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/olehmartynenko/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-527&nbsp;/&nbsp;715&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com///github/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-528&nbsp;/&nbsp;715&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/olehmartynenko/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com///github/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-527&nbsp;/&nbsp;715&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/olehmartynenko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-528&nbsp;/&nbsp;715&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -45,7 +45,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies u | `11` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Environment | `5` | `6` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `15` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Network | `21` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Network | `22` | `28` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Technique and tools | `8` | `12` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data access | `6` | `7` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `8` | `14` |
@@ -193,17 +193,17 @@ Total: you have `31` of `75` skills, `44` to be upgraded, and `14` above needed
 | API and domain logic developer | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `45` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `46` above needed
 
 | Enterprise applications | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `59` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `60` above needed
 
 | Real-Time, gamedev, messaging | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `46` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `47` above needed
 
 | Web and Frontend | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -213,9 +213,9 @@ Total: you have `0` of `0` skills, `0` to be upgraded, and `25` above needed
 | Fullstack development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `50` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `51` above needed
 
 | Platform/system development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `69` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `70` above needed
